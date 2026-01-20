@@ -29,7 +29,7 @@
 ### Back-End Development
 
 ![node](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=white)
 
