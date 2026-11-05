@@ -1,57 +1,56 @@
-## Hello I'm Cristiano 👋
-  
-  I'm currently in the last year of Bachelor Engenharia Informática / Computer Science
+## Hi there, I'm Cristiano 👋
 
-## 🛠️ Skills
+🎓 **BSc in Computer Science & Engineering** | 🚀 Currently pursuing a **Master's in Telecommunications and Computer Engineering (METI)**  
+💻 Software Developer & Systems enthusiast focused on practical web architectures, automation, and backend infrastructure.
 
-### Languages
+---
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=white)
-![c++](https://img.shields.io/badge/c++-%232C2D72.svg?style=for-the-badge&logo=c++&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ Tech Stack
 
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Front-End Development
+#### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+#### Backend & APIs
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗄️ Servers
+#### DevOps, Cloud & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-
-### Back-End Development
-
-![node](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=white)
-
-
-### Automation | CI / CD
-
-![github-actions](https://img.shields.io/badge/github_actions-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
-
-
-## 📈 Stats
+### 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kurotiano&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&theme=github_dark" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=kurotiano&show_icons=true&hide_border=true&theme=github_dark" alt="Kurotiano's GitHub Stats">
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=Kurotiano&style=flat&label=Profile+Views" alt="Profile Views">
+  <img src="https://github-profile-trophy.vercel.app/?username=kurotiano&row=1&column=6&margin-h=8&theme=github_dark&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurotiano&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurotiano&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=kurotiano&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </div>
 
-## 🔗 Links
+---
 
+### 📬 Connect
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:cris.dsg11@hotmail.com)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kurotiano)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cris.dsg11@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kurotiano)
