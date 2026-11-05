@@ -37,17 +37,18 @@
 
 ---
 
-### 📈 Stats
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kurotiano&row=1&column=6&margin-h=8&theme=github_dark&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurotiano&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=kurotiano&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurotiano&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurotiano&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
   <br /><br />
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=kurotiano&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </div>
-
 ---
 
 ### 📬 Connect
